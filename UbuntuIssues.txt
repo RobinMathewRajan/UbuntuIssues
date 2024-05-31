@@ -1,0 +1,2 @@
+May 31, Friday, 2024, 10:37 AM.
+Why libfuse2 is not included in 22.04 by default? Our organization depends on libfuse2 for certain applications. Please include libfuse2. Please include libfuse2 in point releases of 22.04.
